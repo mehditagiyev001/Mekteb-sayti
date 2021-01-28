@@ -1,0 +1,2 @@
+# Mekteb-sayti
+Mekteb sayti
